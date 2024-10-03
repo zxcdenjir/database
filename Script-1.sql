@@ -1,0 +1,1 @@
+SELECT "FirstName", "LastName", "CountryCode" FROM "User" u CROSS JOIN "Runner" r ;
