@@ -1,4 +1,4 @@
-SELECT "LastName", "FirstName", "Gender", date_part('year', AGE(current_date, "DateOfBirth")) as "Age", "MarathonName", "EventName", "RaceTime" from "Runner"
+select "LastName", "FirstName", "Gender", date_part('year', AGE(current_date, "DateOfBirth")) as "Age", "MarathonName", "EventName", "RaceTime" from "Runner"
 join "User" on "User"."Email" = "Runner"."Email"
 join "Registration" on "Runner"."RunnerId" = "Registration"."RunnerId"
 join "Gender" on "Gender"."GenderId" = "Runner"."GenderId"
