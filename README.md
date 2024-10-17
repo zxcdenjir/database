@@ -1,19 +1,19 @@
 # Запросы Марафон
 
-![[diagram.png]]
+<img width="673" alt="diagram" src="https://github.com/user-attachments/assets/20c1c031-9b96-4323-9d66-9a95f14d63f2">
 
 ## Задание 1
 
 Все бегуны, которые зарегистрированы на текущий марафон отображаются в таблице, как: имя, фамилия - BibNumber (CountryCode).
 
-![[task1image.png]]
+<img width="191" alt="task1image" src="https://github.com/user-attachments/assets/ddec03f5-181c-444c-90b9-e330903a8845">
 
 ## Задание 2
 
 Таблица с результатами бегуна с предыдущих соревнований. Должен отображаться пол, возраст
 Список должен показать каждое соревнование, в котором бегун соревновался ранее.
 
-![[task2image.png]]
+<img width="512" alt="task2image" src="https://github.com/user-attachments/assets/39c8ade0-0d30-4d06-b2f8-f366fbb79fab">
 
 ## Задание 3
 
@@ -29,7 +29,7 @@
 
 • Отдельно по категории положение бегуна на событии, среди бегунов одного того же пола и той же возрастной категории.
 
-![[task3image.png]]
+<img width="622" alt="task3image" src="https://github.com/user-attachments/assets/54ffe072-71e2-4272-8eb7-542de52d7f88">
 
 ## Задание 4
 
@@ -58,9 +58,9 @@
 | #1    | 4ч 15м 12с  | Полный марафон | 2014-Japan        |
 | #2    | 4ч 22м 23с  | Полумарафон    | 2013-Tokio        |
 
-![[task4image.png]]
+<img width="859" alt="task4image" src="https://github.com/user-attachments/assets/5fcb323f-8d8a-4568-8424-9e799feea4ea">
 
-![[task4image2 1.png]]
+<img width="232" alt="task4image2" src="https://github.com/user-attachments/assets/858596dc-da53-4a96-8472-d84f40cc4179">
 
 ## Задание 5
 
@@ -69,9 +69,9 @@
 Общее количество бегунов, которые выведены в список, должно быть отображено над списком.
 Имя, Фамилия, адрес электронной почты и регистрационный статус должны быть указаны для каждого бегуна.
 
-![[task5image.png]]
+<img width="612" alt="task5image" src="https://github.com/user-attachments/assets/00b31930-f139-45c8-b351-aa55ed889d00">
 
-![[task5image2.png]]
+<img width="125" alt="task5image2" src="https://github.com/user-attachments/assets/90e8ef43-0574-4fc8-a668-020f45857162">
 
 ## Задание 6
 
@@ -85,7 +85,7 @@
 
 Список должен показать наименование и общее количество спонсоров получил для каждой благотворительной организации.
 
-![[task6image.png]]
+<img width="265" alt="task6image" src="https://github.com/user-attachments/assets/be750a1a-1efc-425d-9c3b-4ad57e2eab2e">
 
 ## Задание 7
 
@@ -105,4 +105,5 @@
 
 "Дата рождения" должна быть правильной датой и бегуну должен быть не менее 10 лет на момент регистрации.
 
-![[task7image.png]]
+<img width="218" alt="task7image" src="https://github.com/user-attachments/assets/a7c17a13-4102-4186-bd87-a817babbf3da">
+
