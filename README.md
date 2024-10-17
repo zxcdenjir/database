@@ -71,6 +71,7 @@
 
 <img width="612" alt="task5image" src="https://github.com/user-attachments/assets/00b31930-f139-45c8-b351-aa55ed889d00">
 
+
 <img width="125" alt="task5image2" src="https://github.com/user-attachments/assets/90e8ef43-0574-4fc8-a668-020f45857162">
 
 ## Задание 6
